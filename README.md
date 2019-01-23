@@ -1,2 +1,2 @@
 # ImageUploader
-Load Image from Gallery Mobile App
+Mobile App to Load Image from Gallery 
